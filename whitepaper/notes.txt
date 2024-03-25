@@ -1,0 +1,1 @@
+This folder serves as the repository for our latest whitepaper. All versions will be uploaded here in .PDF format along with the main .doc version.
