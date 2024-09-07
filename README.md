@@ -1,4 +1,4 @@
 # $UBQT
 $UBQT Utility Token
 
-Read the full whitepaper at https://www.ubitquitynft.com/web3/token
+Learn more at https://nftitlenetwork.com/ubqt/
